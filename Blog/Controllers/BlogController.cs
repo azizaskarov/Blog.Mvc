@@ -6,6 +6,7 @@ namespace Blog.Controllers
     {
         public IActionResult CreatorPage()
         {
+            //a
             return View();
         }
     }
